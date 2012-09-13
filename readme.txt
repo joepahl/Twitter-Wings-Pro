@@ -1,4 +1,4 @@
-=== Twitter Wings ===
+=== Twitter Wings Pro ===
 Contributors: joepahl, bsdeluxe
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RR6SHW9UBJSA
 Tags: twitter, sidebar, widget, HTML5, plugin, links
